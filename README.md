@@ -12,5 +12,5 @@ In order to test this, I copy/pasted the functions used for [forwardRef](https:/
 
 ## Results
 
-- [current](./current/bundled.js): 23K
-- [isolated](./isolated/bundled.js): 14K
+- [current](./current/bundled.js): 15K
+- [isolated](./isolated/bundled.js): 8.6K
